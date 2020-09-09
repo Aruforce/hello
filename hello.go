@@ -7,6 +7,6 @@ func Hello() string {
 }
 
 func testHello() string {
-    fmt.Print("this is v1.0.2");
+    fmt.Print("this is v2.0.0");
     return "Hello, world.";
 }
